@@ -1,0 +1,28 @@
+_repo: Histoire-de-la-Monarchie-de-Juillet--Volume-7---7-_44710
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44710-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Thureau-Dangin, Paul
+    birthdate: 1837
+    deathdate: 1913
+    gutenberg_agent_id: '40467'
+    url: http://www.gutenberg.org/2009/agents/40467
+    wikipedia: http://fr.wikipedia.org/wiki/Paul_Thureau-Dangin
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2014-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44710'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- History -- Louis Philippe, 1830-1848'
+title: Histoire de la Monarchie de Juillet (Volume 7 / 7)
+url: http://www.gutenberg.org/ebooks/44710
